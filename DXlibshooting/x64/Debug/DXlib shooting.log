@@ -1,0 +1,290 @@
+﻿  BackGrounds.cpp
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(26,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy1' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(47,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy2' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(58,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy3' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(75,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy4' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(89,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy5' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(103,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy6' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(122,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Boss' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(130,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'BackGround' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(139,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SHOT' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(147,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Player' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(158,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(168,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet1' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(177,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet2' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(187,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Attack_area' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(194,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bomb' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(199,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Scene' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(205,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'title' の左辺を無視します。
+  (ソース ファイル 'BackGrounds.cpp' をコンパイルしています)
+  
+  EnemyShooting.cpp
+  firstscene.cpp
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(26,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy1' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(47,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy2' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(58,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy3' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(75,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy4' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(89,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy5' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(103,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy6' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(122,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Boss' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(130,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'BackGround' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(139,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SHOT' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(147,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Player' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(158,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(168,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet1' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(177,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet2' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(187,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Attack_area' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(194,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bomb' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(199,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Scene' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(205,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'title' の左辺を無視します。
+  (ソース ファイル 'firstscene.cpp' をコンパイルしています)
+  
+  main.cpp
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(26,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy1' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(47,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy2' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(58,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy3' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(75,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy4' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(89,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy5' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(103,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy6' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(122,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Boss' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(130,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'BackGround' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(139,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SHOT' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(147,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Player' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(158,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(168,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet1' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(177,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet2' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(187,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Attack_area' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(194,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bomb' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(199,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Scene' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(205,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'title' の左辺を無視します。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  PlayerEnemyManager.cpp
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(26,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy1' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(47,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy2' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(58,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy3' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(75,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy4' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(89,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy5' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(103,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy6' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(122,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Boss' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(130,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'BackGround' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(139,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SHOT' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(147,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Player' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(158,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(168,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet1' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(177,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet2' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(187,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Attack_area' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(194,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bomb' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(199,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Scene' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(205,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'title' の左辺を無視します。
+  (ソース ファイル 'PlayerEnemyManager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(168,39): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(183,40): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(227,38): warning C4244: '-=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(273,11): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(326,11): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(380,11): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(403,13): warning C4244: 'return': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(411,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(411,27): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(412,20): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(412,27): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(456,19): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(711,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(712,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(721,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(721,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(765,31): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(766,30): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(831,18): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(832,18): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(869,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(870,18): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(879,30): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\PlayerEnemyManager.cpp(879,20): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  scenemanager.cpp
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(26,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy1' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(47,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy2' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(58,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy3' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(75,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy4' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(89,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy5' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(103,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy6' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(122,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Boss' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(130,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'BackGround' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(139,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SHOT' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(147,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Player' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(158,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(168,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet1' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(177,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Enemy_Bullet2' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(187,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Attack_area' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(194,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Bomb' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(199,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'Scene' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+E:\VisualStudio2022\DXlib shooting\DXlib shooting\typedefclass.h(205,2): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'title' の左辺を無視します。
+  (ソース ファイル 'scenemanager.cpp' をコンパイルしています)
+  
+  typedefclass.cpp
+  コードを生成中...
+  DXlib shooting.vcxproj -> E:\VisualStudio2022\DXlib shooting\x64\Debug\DXlib shooting.exe
+  'pwsh.exe' は、内部コマンドまたは外部コマンド、
+  操作可能なプログラムまたはバッチ ファイルとして認識されていません。
